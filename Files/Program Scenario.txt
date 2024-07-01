@@ -1,0 +1,91 @@
+Program Scenario
+
+Background context and your project team
+
+# Welcome to the GenAI Job Simulation
+We’re so excited to have you here with us!
+
+## Your Role
+You are a junior data scientist at Boston Consulting Group (BCG), specifically part of the GenAI consulting team.
+Your team consists of diverse talents, each contributing unique skills and perspectives to the projects. You are the newest addition to this dynamic team.
+You have been given the responsibility of developing an AI-powered chatbot that analyzes financial documents. This is a cutting-edge project at the intersection of finance and generative AI (GenAI), a growing area of interest and investment at BCG.
+As an ambitious junior data scientist eager to make your mark, you see this as a golden opportunity to apply your technical expertise in AI and data analysis while also learning about the financial domain.
+
+## Your Goal
+Your primary objective is to extract and analyze key financial data from the client's 10-K and 10-Q documents. This involves understanding financial statements, identifying significant trends, and preparing data for AI-driven applications.
+Following the data analysis, you will develop an AI-powered financial chatbot. This chatbot must be capable of analyzing financial data and providing insights that effectively communicate complex financial information in an interactive and user-friendly manner.
+Throughout the project, your focus will not only be on the technical execution but also on how these AI-driven insights can be leveraged in a consulting context to provide strategic recommendations and solutions to clients.
+
+# Your team at BCG
+A dynamic group at BCG specializing in leveraging GenAI technologies to deliver innovative solutions in finance and data analytics.
+
+## GenAI Consulting Team
+1. Who You Are
+YOU
+Syahril Dimas
+Data scientist
+A role focused on applying AI and data analysis skills to develop AI-powered tools, such as a financial chatbot, while learning to translate complex data into strategic business insights.
+
+2. Your Team
+MANAGER
+Aisha
+Senior data scientist
+Aisha is a renowned and skilled senior data scientist at BCG, recognized for her leadership of the GenAI Consulting team and her expertise in integrating AI with financial analytics for strategic consulting solutions.
+
+# Project brief
+## Background context 
+
+The GenAI Consulting team at BCG has been approached by a leading global financial institution, Global Finance Corp. (GFC), to address a pressing challenge in their operations. GFC, amid a rapidly evolving financial landscape, is seeking to enhance its capabilities in analyzing corporate financial performance. They have identified a need for a sophisticated, AI-driven solution to stay ahead in the market and provide their clients with deeper, more accessible insights into corporate financial health.
+
+GFC's traditional methods of financial analysis, though reliable, have become time-consuming and less efficient in the face of increasing data volumes and the fast pace of financial markets. They are looking to BCG, known for its cutting-edge AI solutions, to develop a tool that can quickly analyze and interpret large sets of financial data, specifically from 10-K and 10-Q reports.
+
+## The project 
+
+Your role as a junior data scientist in the GenAI Consulting team is pivotal in developing an AI-powered chatbot that can analyze and provide insights on corporate financial performance from 10-K and 10-Q financial documents. This chatbot is intended to revolutionize the way GFC and its clients interact with financial data, making complex information easily accessible and understandable through conversational AI.
+
+## Key terms
+
+	10-K and 10-Q reports: Annual and quarterly financial reports filed by publicly traded companies containing detailed information about financial performance.
+	GenAI: A branch of AI focusing on generating new content, including text and data analysis, which is crucial for the chatbot's ability to interpret and communicate financial data.
+	Natural language processing (NLP): An AI technology that the chatbot will use to understand and respond to user queries in natural language.
+ 
+## Specific project requirements and outcomes
+
+	Efficiency: The solution must significantly reduce the time taken to analyze financial documents compared to traditional methods.
+	Accuracy: The chatbot should provide precise and reliable financial insights backed by thorough data analysis.
+	User-friendly interface: The chatbot should be intuitive and easy to use for GFC’s diverse client base, regardless of their financial expertise.
+	Scalability: The solution should be scalable – capable of handling an increasing number of documents and user queries.
+
+The pressure is high, as GFC is looking to implement this solution in the upcoming financial quarter. The GenAI Consulting team is feeling a mix of excitement and urgency, understanding the impact this project could have on their reputation and future opportunities. As a junior data scientist, you are expected to bring fresh perspectives and innovative solutions, working under the guidance of your manager, Aisha, to meet these high expectations. The team is geared up for a challenging yet rewarding journey, aiming to deliver a groundbreaking tool in the field of financial analytics.
+
+# Quiz
+## Question 1 of 3
+What is the primary purpose of the AI-powered chatbot being developed for Global Finance Corp. (GFC)?
+	To predict stock market trends
+x	To analyze and provide insights on corporate financial performance
+	To automate all of GFC's financial operations
+	To manage customer service inquiries
+
+The chatbot is designed specifically to analyze 10-K and 10-Q financial documents and provide insights on corporate financial performances.
+
+## Question 2 of 3
+What are 10-K and 10-Q reports?
+	Monthly business progress reports
+	Internal audit documents of financial institutions
+	Global economic analysis reports
+x	Annual and quarterly financial reports filed by publicly traded companies
+
+10-K and 10-Q are annual and quarterly financial reports, respectively, filed by publicly traded companies, detailing their financial performance.
+
+## Question 3 of 3
+What is a key requirement for the AI-powered chatbot in terms of its interface and usability?
+	It should prioritize graphical data presentations over textual analysis.
+	It must be capable of handling large-scale data-mining operations.
+x	It needs to have a user-friendly interface accessible to GFC’s diverse client base.
+	It should use advanced technical jargon to impress expert users.
+
+A user-friendly interface is crucial for the chatbot, ensuring that it is intuitive and easily accessible for GFC’s diverse client base, regardless of their financial expertise.
+
+# Let’s get started!
+Now that you have the context, let’s start your ‘First Day’ at work!
+
