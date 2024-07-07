@@ -21,3 +21,4 @@ Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 ## References
 
 1. [How to Read a 10-K/10-Q](https://www.sec.gov/oiea/investor-alerts-and-bulletins/how-read-10-k10-q)
+2. 
