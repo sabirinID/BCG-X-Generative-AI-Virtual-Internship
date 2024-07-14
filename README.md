@@ -21,5 +21,7 @@ Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 ## References
 
 1. [How to Read a 10-K/10-Q](https://www.sec.gov/oiea/investor-alerts-and-bulletins/how-read-10-k10-q)
-2. [Generative AI Use Cases](https://cloud.google.com/use-cases/generative-ai)
-3. 
+2. [What is Generative AI?](https://www.ibm.com/topics/generative-ai)
+3. [Generative AI: What it is and why it matters](https://www.sas.com/en_my/insights/analytics/generative-ai.html)
+4. [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
+5. 
