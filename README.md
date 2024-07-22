@@ -25,4 +25,5 @@ Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 3. [Generative AI: What it is and why it matters](https://www.sas.com/en_my/insights/analytics/generative-ai.html)
 4. [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
 5. [Generative AI for Educators](https://grow.google/ai-for-educators/)
-6. 
+6. [](https://cloud.google.com/ai/generative-ai)
+7. [](https://aws.amazon.com/id/ai/generative-ai/)
