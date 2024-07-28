@@ -27,3 +27,5 @@ Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 5. [Generative AI for Educators](https://grow.google/ai-for-educators/)
 6. [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai/)
 7. [Generative AI on AWS](https://aws.amazon.com/ai/generative-ai/)
+8. 
+
