@@ -29,4 +29,5 @@ Develop a chatbot to assist with financial inquiries with the GenAI team at BCG.
 7. [Generative AI on AWS](https://aws.amazon.com/ai/generative-ai/)
 8. [AI Chatbot with Retrieval-Augmented Generation](https://www.nvidia.com/en-us/ai-data-science/ai-workflows/generative-ai-chatbot-with-rag/)
 9. [How to Build a Retrieval-Augmented Generation Chatbot](https://www.anaconda.com/blog/how-to-build-a-retrieval-augmented-generation-chatbot)
+10. ...
 
